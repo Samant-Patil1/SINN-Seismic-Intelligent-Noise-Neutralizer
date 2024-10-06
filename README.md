@@ -13,3 +13,7 @@ Processes seismic data (either real or simulated) from planetary bodies such as 
 Utilizes advanced signal processing and (Nair and Patil)Algorithms to automatically identify and detect seismic events.
 Generates time-series plots and spectrograms for visualization, marking seismic events fun and interactive for users.
 Can be applied in space research or planetary exploration missions to detect, analyze, and study seismic activity.
+
+<h2>Links</h2>
+Website: <a href="https://samant-patil1.github.io/NebulaNinjasv2/">Click here</a>
+PPT: <a href="https://www.canva.com/design/DAGSuJqgprc/R5odTvxgpOuQ6vd6uZgACw/edit?utm_content=DAGSuJqgprc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click here</a>
